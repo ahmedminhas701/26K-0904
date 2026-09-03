@@ -21,3 +21,14 @@
   - Developed and deployed full-stack web platforms for accounting and learning management systems[cite: 2].
 - **Data Cleaning & Analysis Pipeline** - *Upwork*[cite: 2]
   - Processed, cleaned, and structured raw datasets for analytical workflows[cite: 2].
+
+
+## Hobbies & Extracurriculars
+1. Private Tutoring & Mentorship
+   - [x] Teach Mathematics and Science to O Level students
+   - [x] Expand teaching to coaching centers
+   - [ ] Create online video lectures for student revision
+2. Playing E-Games & Strategy Gaming
+3. Watching Movies & Cinema
+4. Playing Sports & Physical Fitness
+5. Exploring AI & Learning New Technologies

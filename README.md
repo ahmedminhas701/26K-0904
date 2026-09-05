@@ -1,4 +1,4 @@
-![Profile Picture](https://via.placeholder.com/150)
+![Profile Picture](pfp.jpeg)
 
 # MOHAMMED AHMED MINHAS
 

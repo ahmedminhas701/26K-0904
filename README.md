@@ -3,24 +3,24 @@
 # MOHAMMED AHMED MINHAS
 
 ## Education
-- **Undergraduate Student** - *FAST University*[cite: 2]
-- **Diploma in Software & AI** - *Aptech Learning*[cite: 2]
-- **A Levels** - *Private*[cite: 2]
-- **O Levels** - *Happy Palace Grammar School*[cite: 2]
+- **Undergraduate Student** - *FAST University*
+- **Diploma in Software & AI** - *Aptech Learning*
+- **A Levels** - *Private*
+- **O Levels** - *Happy Palace Grammar School*
 
 ## Skills
-- Machine Learning & AI Engineering[cite: 2]
+- Machine Learning & AI Engineering
 - Full-Stack Web Development (MERN & ASP.NET)[cite: 2]
 - SQL Server & Data Analysis[cite: 2]
 - MLOps, Docker & CI/CD Pipelines[cite: 2]
 
 ## Projects
-- **Custom NLP Chatbot** - *Upwork*[cite: 2]
-  - Built and deployed a custom NLP chatbot application using Docker and CI/CD[cite: 2].
-- **Accounting & LMS Web Applications** - *Upwork*[cite: 2]
-  - Developed and deployed full-stack web platforms for accounting and learning management systems[cite: 2].
-- **Data Cleaning & Analysis Pipeline** - *Upwork*[cite: 2]
-  - Processed, cleaned, and structured raw datasets for analytical workflows[cite: 2].
+- **Custom NLP Chatbot** - *Upwork*
+  - Built and deployed a custom NLP chatbot application using Docker and CI/CD
+- **Accounting & LMS Web Applications** - *Upwork*
+  - Developed and deployed full-stack web platforms for accounting and learning management systems.
+- **Data Cleaning & Analysis Pipeline** - *Upwork*
+  - Processed, cleaned, and structured raw datasets for analytical workflows.
 
 
 ## Hobbies & Extracurriculars
